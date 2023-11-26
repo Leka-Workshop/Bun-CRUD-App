@@ -7,6 +7,9 @@ Learn how to set up a starter Bun Rest API app from scratch that uses:
 * Guards
 * Security (CORS, JWT, Helmet, Rate Limiter)
 * Tests
+#
+### [>>> Read Full Blog <<<](https://mirzaleka.medium.com/bun-crud-api-with-elysia-js-mongodb-10e73d484723)
+#
 
 ## Project Structure
 
